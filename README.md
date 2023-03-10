@@ -16,7 +16,7 @@ repaso y ejercicios sobre bucles
 ejercicios sobre programacion imperativa,funcional  y avanzada
 
 * * *
-###DIA 4
+### DIA 4
 ###### 5_M6 - 05 - SparkSession Teoría.ipynb    
 teoria y ejemplos iniciar sesion y funciones lambda,map,filter
 

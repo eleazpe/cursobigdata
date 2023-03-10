@@ -9,3 +9,10 @@
 * * *
 ### DIA 3
 ###### 4_M6_04_Programación_Funcional_ele.ipynb ejercicios sobre programacion imperativa,funcional  y avanzada
+* * *
+###DIA 4
+5_M6 - 05 - SparkSession Teoría.ipynb    
+teoria y ejemplos iniciar sesion y funciones lambda,map,filter
+
+6_M6 - 06 - Primer RDD Teoría.ipynb 
+teoria y ejemplos de creacion de un RDD 
